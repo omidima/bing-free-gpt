@@ -364,4 +364,7 @@ def _create_completion( messages: list, **kwargs):
         yield (token)
 
 
-asyncio.run(_create_completion([""]))
+asyncio.run(_create_completion([{
+    "role":"user",
+    "content":"Helloooo!"
+}]))
