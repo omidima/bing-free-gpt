@@ -1,7 +1,7 @@
 # deep ai
 a python script for use free of bing chat bot with use request sampler.
 
-### Getting start
+## Getting start
 entry point of app here:
 ```python
 # ./deepai.py
