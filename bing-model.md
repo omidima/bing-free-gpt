@@ -22,7 +22,7 @@ before use bot script you need install project packages. follow this step to ins
 **run app**
 entry point of app here:
 ```python
-# ./script.py
+# ./bing.py
 
 ...
 asyncio.run(_create_completion([""]))
