@@ -17,8 +17,9 @@ before use bot script you need install project packages. follow this step to ins
 now choice provider model file for work with text ai
 
 # Models:
-| name | stream response | availabe | need recaptcha |
-| --- | --- |
-| Bing Gpt | ✅ | ✅ | ✅ |
-| Deep ai | ✅ | ✅ | ❌ |
+
+| name | GPT 3.5 | GPT 4 | stream response | availabe | need recaptcha |
+| --- | --- | --- | --- | --- | --- |
+| Bing Gpt | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Deep ai | ✅ | ❌ | ❌ | ✅ | ✅ |
 
