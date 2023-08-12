@@ -14,9 +14,9 @@ asyncio.run(_create_completion([""]))
 ```
 
 for run app you just need start script.py file in python
-`python ./script.py`
+`python ./bing.py`
 
-# entities:
+### entities:
 message model is a json object and use for send message prompt to chat bot 
 for proccess and return data. sample of json object:
 ```json
