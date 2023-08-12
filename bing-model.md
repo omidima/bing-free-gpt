@@ -1,6 +1,9 @@
 # bing-free-gpt
 a python script for use free of bing chat bot with use request sampler.
 
+## Update:
+- now bing added recaptcha verification. if can pass recaptcha, can use this script else dont work this provider.
+
 ## requirement:
 - python: 3.9
 - os: Linux or Unix based system
